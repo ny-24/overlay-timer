@@ -2,7 +2,7 @@
   "name": "Overlay Timer",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "ブラウザの画面に覆いかぶさ様にタイマーを表示します",
+  "description": "ブラウザ画面に覆いかぶさる様にタイマーを表示します",
   "icons": {
     "16": "assets/images/ot_016.png",
     "32": "assets/images/ot_032.png",
